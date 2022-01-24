@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/favorite-books-client/static/css/main.1f5cf81c.css",
+    "main.js": "/favorite-books-client/static/js/main.a1cb5f81.js",
+    "static/js/787.070db070.chunk.js": "/favorite-books-client/static/js/787.070db070.chunk.js",
+    "index.html": "/favorite-books-client/index.html",
+    "main.1f5cf81c.css.map": "/favorite-books-client/static/css/main.1f5cf81c.css.map",
+    "main.a1cb5f81.js.map": "/favorite-books-client/static/js/main.a1cb5f81.js.map",
+    "787.070db070.chunk.js.map": "/favorite-books-client/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5cf81c.css",
+    "static/js/main.a1cb5f81.js"
+  ]
+}
